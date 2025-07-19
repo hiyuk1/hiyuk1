@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**hiyuk1/hiyuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Information Systems student** at the University of São Paulo (USP), passionate about **Data Science** and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+🎓 I'm actively involved in two extension groups at USP:  
+- 🚀 [Hype - Data & AI]
+- 💻 [Codelab USP]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I'm currently focused on expanding my knowledge in:
+- Data analysis & visualization
+- Machine learning, deep learning, LLMs
+- Python, SQL, and data tools
+
+📚 Constantly learning and experimenting with real-world projects.
+
+---
+
+### 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/guilherme-maruta/)  
+- [Email](mailto:hiyuki.maruta@gmail.com)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects and contributions 🚀
