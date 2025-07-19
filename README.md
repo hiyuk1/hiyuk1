@@ -5,5 +5,3 @@ My name is Guilherme and I'm a Information Systems at Universidade de São Paulo
 Now, my main interests are: Data Science and Artificial Intelligence.
 
 Looking for opportunities in the area.
-
-**Hungry to learn more from now on!**
