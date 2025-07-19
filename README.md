@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-I'm a **Information Systems student** at the University of São Paulo (USP), passionate about **Data Science** and **Artificial Intelligence**.
+My name is Guilherme and I'm a Information Systems at Universidade de São Paulo (USP). Feel free to follow me and take a look at my projects.
 
-🎓 I'm actively involved in two extension groups at USP:  
-- 🚀 [Hype - Data & AI]
-- 💻 [Codelab USP]
+Now, my main interests are: Data Science and Artificial Intelligence.
 
-🔍 I'm currently focused on expanding my knowledge in:
-- Data analysis & visualization
-- Machine learning, deep learning, LLMs
-- Python, SQL, and data tools
+Looking for opportunities in the area.
 
-📚 Constantly learning and experimenting with real-world projects.
-
----
-
-### 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/guilherme-maruta/)  
-- [Email](mailto:hiyuki.maruta@gmail.com)
-
----
-
-Thanks for stopping by! Feel free to check out my projects and contributions 🚀
+[![hiyuk1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyuk1)](https://github.com/anuraghazra/github-readme-stats&show_icons="true"&theme=tokyonight)
